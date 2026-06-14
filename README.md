@@ -19,7 +19,7 @@ CHoCH, liquidity grabs.
 ## 30-second setup (Claude Desktop)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/smc-mcp.git
+git clone https://github.com/AkhileshSelvan/smc-mcp.git
 cd smc-mcp
 pip install -e .
 ```

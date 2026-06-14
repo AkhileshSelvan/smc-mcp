@@ -29,8 +29,8 @@ dependencies = [
 dev = ["pytest>=8.0"]
 
 [project.urls]
-Homepage = "https://github.com/YOUR_USERNAME/smc-mcp"
-Issues = "https://github.com/YOUR_USERNAME/smc-mcp/issues"
+Homepage = "https://github.com/AkhileshSelvan/smc-mcp"
+Issues = "https://github.com/AkhileshSelvan/smc-mcp/issues"
 
 [project.scripts]
 smc-mcp = "smc_mcp.server:main"
